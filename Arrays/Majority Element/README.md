@@ -1,54 +1,49 @@
-Maximum Subarray
+Majority Element
 Problem
 
-Given an integer array nums, find the subarray with the largest sum and return that sum.
+Given an array nums, find the element that appears more than n/2 times.
 
 Example:
 
-[-2,1,-3,4,-1,2,1,-5,4]
+[2,2,1,1,1,2,2]
 
 
-Output: 6
+Output: 2
 
-Because:
+Here, 2 appears more than half of the array.
 
-[4,-1,2,1] = 6
 Approach
 
-I used Kadane's Algorithm.
+I used the Boyer-Moore Voting Algorithm.
 
 I keep two variables:
 
-sum → stores the current subarray sum.
-maxi → stores the maximum sum found so far.
+candidate → stores the current possible majority element.
+count → keeps track of its count.
 
-For every element, I add it to sum:
+Initially, I take the first element as the candidate:
 
-sum += nums[i];
+candidate = nums[0];
+count = 1;
 
-Then I update maxi:
+Then I traverse the array.
 
-maxi = max(maxi, sum);
+If the current element is the same as the candidate:
 
-If sum becomes negative, I reset it to 0:
+count++;
 
-if(sum < 0)
-    sum = 0;
+Otherwise:
 
-The idea is that a negative sum will only make the next subarray worse, so it is better to start fresh from the next element.
+count--;
 
-Example
-[-2,1,-3,4,-1,2,1,-5,4]
+The idea is that a majority element appears more than all the other elements combined, so the other elements can be cancelled out.
 
-When we reach:
+Whenever count becomes 0, I choose the current element as the new candidate:
 
-[4,-1,2,1]
+candidate = nums[i];
+count = 1;
 
-the sum becomes:
-
-4 - 1 + 2 + 1 = 6
-
-So maxi becomes 6.
+At the end, the remaining candidate is the majority element.
 
 Complexity
 
@@ -58,4 +53,4 @@ Space: O(1)
 
 Key Takeaway
 
-If the current sum becomes negative, discard it and start a new subarray. Keep updating the maximum sum while traversing the array.
+The main idea is cancellation — every different element cancels one occurrence of the current candidate. Since the majority element appears more than n/2 times, it will be left as the final candidate.
