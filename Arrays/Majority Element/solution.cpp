@@ -1,18 +1,23 @@
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
-        int sum = 0;
-        int maxi = nums[0];
+    int majorityElement(vector<int>& nums) {
+        int candidate = nums[0];
+        int count = 1;
 
-        for(int i = 0; i < nums.size(); i++) {
-            sum += nums[i];
+        for(int i = 1; i < nums.size(); i++) {
+            if(nums[i] == candidate) {
+                count++;
+            }
+            else {
+                count--;
+            }
 
-            maxi = max(maxi, sum);
-
-            if(sum < 0)
-                sum = 0;
+            if(count == 0) {
+                candidate = nums[i];
+                count = 1;
+            }
         }
 
-        return maxi;
+        return candidate;
     }
 };
