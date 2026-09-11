@@ -7,6 +7,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
