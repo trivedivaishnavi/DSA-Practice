@@ -41,4 +41,12 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
