@@ -60,5 +60,14 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
