@@ -6,6 +6,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -66,10 +67,15 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
