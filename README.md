@@ -57,6 +57,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -68,6 +69,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
