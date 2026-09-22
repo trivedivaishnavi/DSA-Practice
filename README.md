@@ -30,6 +30,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -76,6 +77,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0020-valid-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
@@ -91,4 +93,5 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
