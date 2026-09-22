@@ -29,6 +29,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -85,4 +87,8 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
