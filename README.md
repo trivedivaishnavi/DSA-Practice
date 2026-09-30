@@ -64,6 +64,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
@@ -110,4 +112,8 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
