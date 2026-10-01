@@ -48,6 +48,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
@@ -82,6 +83,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0020-valid-parentheses](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0647-palindromic-substrings) |
@@ -116,4 +118,8 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
