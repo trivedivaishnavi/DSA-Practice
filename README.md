@@ -7,6 +7,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -30,6 +31,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -122,4 +124,8 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0415-add-strings) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
