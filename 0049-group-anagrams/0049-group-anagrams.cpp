@@ -4,19 +4,19 @@ public:
 
         unordered_map<string, vector<string>> mp;
 
-        for(string str : strs) {
+        for(string str : strs) { //visit every word
 
-            string original = str;
+            string original = str; //maintain original order
 
-            sort(str.begin(), str.end());
+            sort(str.begin(), str.end()); //sort 
 
-            mp[str].push_back(original);
+            mp[str].push_back(original); //original string to that group
         }
 
         vector<vector<string>> ans;
 
-        for(auto it : mp) {
-            ans.push_back(it.second);
+        for(auto it : mp) { //traversing the map
+            ans.push_back(it.second); //it.first is sorted key second is original strings
         }
 
         return ans;
