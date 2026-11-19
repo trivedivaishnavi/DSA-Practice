@@ -4,12 +4,12 @@ public:
         unordered_map<int,int> mp;
         int sum = 0;
         int count = 0;
-        mp[0]=1;
+        mp[0]=1; 
         for(int i = 0; i < nums.size(); i++){
             sum+= nums[i];
-            int rem = ((sum%k)+k)%k;
-            count+= mp[rem];
-            mp[rem]++;
+            int rem = ((sum%k)+k)%k; //formula for negative numbers
+            count+= mp[rem]; //count frequency
+            mp[rem]++; //update frequency
         }
         return count;
     }
