@@ -9,6 +9,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -38,6 +39,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -144,9 +146,30 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | ------- |
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
