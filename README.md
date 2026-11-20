@@ -9,6 +9,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -39,6 +40,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0242-valid-anagram](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -145,5 +147,6 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
