@@ -1,0 +1,17 @@
+class Solution {
+  public:
+    long subarrayXor(vector<int> &arr, int k) {
+        // code here
+        unordered_map<int,int> mp;
+        int xori = 0;
+        int count = 0;
+        mp[0]=1;
+        for(int i = 0; i < arr.size();i++){
+            xori^= arr[i];
+            int need = xori ^ k;
+            count+= mp[need];
+            mp[xori]++;
+        }
+        return count;
+    }
+};
