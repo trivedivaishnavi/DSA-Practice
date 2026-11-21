@@ -10,6 +10,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0454-4sum-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -42,6 +43,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0454-4sum-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
