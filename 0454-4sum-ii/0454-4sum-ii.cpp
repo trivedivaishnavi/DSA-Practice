@@ -4,15 +4,16 @@ public:
         unordered_map<int,int> mp;
         for(int i = 0; i < nums1.size(); i++){
             for(int j = 0; j < nums2.size(); j++){
-                mp[nums1[i]+nums2[j]]++;
+                mp[nums1[i]+nums2[j]]++; //all possible sums of nums1 and nums2 and their frequencies
                 
             }
         }
+        //find matching nums3 and nums4 sums
         int count = 0;
         for(int k = 0; k < nums3.size(); k++){
             for(int l = 0; l < nums4.size(); l++){
                 int sum = nums3[k] + nums4[l];
-                int need = -sum;
+                int need = -sum; //to get result 0
 
                 if(mp.find(need)!=mp.end()){
                     count+= mp[need];
