@@ -38,6 +38,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0003-longest-substring-without-repeating-characters](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +72,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0146-lru-cache) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -174,4 +176,12 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
