@@ -7,6 +7,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0647-palindromic-substrings) |
@@ -148,6 +150,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
