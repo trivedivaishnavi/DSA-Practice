@@ -13,6 +13,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0347-top-k-frequent-elements](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -47,6 +48,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 | [0438-find-all-anagrams-in-a-string](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -158,6 +160,7 @@ A curated repository of Data Structures &amp; Algorithms solutions in C++. Inclu
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/trivedivaishnavi/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
